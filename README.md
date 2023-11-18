@@ -1,0 +1,1 @@
+Hi, I'm Holly and I love programming. I made this Github account to showcase my personal projects. I also have my blog at [holly.pw](https://holly.pw) if know want to know more about me.
